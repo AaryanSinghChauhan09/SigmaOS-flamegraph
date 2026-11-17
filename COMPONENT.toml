@@ -3,7 +3,7 @@ name = "SigmaOS-flamegraph"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "flamegraph component"
+description = "FlameGraph"
 upstream = []
 
 [contract]
